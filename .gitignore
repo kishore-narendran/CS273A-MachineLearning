@@ -105,3 +105,9 @@ pip-selfcheck.json
 # Data related exclusions
 
 data/
+
+# Jupyter related exclusions
+
+share/
+
+.DS_Store
