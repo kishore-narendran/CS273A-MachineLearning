@@ -9,7 +9,7 @@ Y = data[:, 1] # Second column is the result
 Xtr,Xte,Ytr,Yte = ml.splitData(X,Y,0.75) # split data set 75/25
 
 nFolds = 5;
-degrees = [1]
+degrees = [1, 3, 5, 7, 10, 18]
 validationMSEs = []
 for degree in degrees:
     J = []
@@ -27,7 +27,6 @@ for degree in degrees:
         valError = np.mean((YValPredP - Yvi) ** 2)
         J.append(valError)
     validationMSEs.append(np.mean(J))
-
 plt.semilogy(degrees, validationMSEs, c = 'red')
 plt.xticks(degrees, degrees)
 plt.show()

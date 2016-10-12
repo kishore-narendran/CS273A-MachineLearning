@@ -20,6 +20,7 @@ xs = xs[:, np.newaxis] # force "xs" to be an Mx1 matrix
 ys = lr.predict(xs) # make predictions at xs
 plt.scatter(Xtr, Ytr, c = 'red') # Plotting the training data points
 plt.plot(xs, ys, c= 'black') # Plotting the predictor line
+plt.title('Regression Function')
 plt.show()
 print 'Regression Coefficients\t=\t', lr.theta
 YTrainPred = lr.predict(Xtr)
@@ -47,6 +48,7 @@ for degree in degrees:
     ax = plt.axis()
     plt.plot(xs, ys, c = 'black') # Plotting the predictor line
     plt.axis(ax)
+    plt.title("Polynomial Function of Degree " + str(degree))
     plt.show()
 
     # Calculating error in test and training data
@@ -58,4 +60,5 @@ for degree in degrees:
 plt.semilogy(degrees, trainingError, c = 'red')
 plt.semilogy(degrees, testError, c = 'green')
 plt.xticks(degrees, degrees)
+plt.title("Training and Test Error vs Degree of Polynomial")
 plt.show()
