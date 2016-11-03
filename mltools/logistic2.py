@@ -65,7 +65,7 @@ class logisticClassify2(classifier):
         # Plot decision boundary defined by theta0 + theta1 X1 + theta2 X2 == 0
         xs = np.linspace(np.min(X[:, 0]), np.max(X[:, 0]), 200) # densely sample possible x-values
         xs = xs[:, np.newaxis]
-        ys = (self.theta[0] + self.theta[1] * xs)/-self.theta[2]
+        ys = (self.theta[0, 0] + self.theta[0, 1] * xs)/-self.theta[0, 2]
         plt.plot(xs, ys)
         plt.show()
 
@@ -82,7 +82,7 @@ class logisticClassify2(classifier):
         """ Return the predictied class of each data point in X"""
         # Computes linear response for the input data
         z = np.zeros(shape=(X.shape[0], 1))
-        z = self.theta[0] + self.theta[1] * X[:,0] + self.theta[2] * X[:,1]
+        z = self.theta[0, 0] + self.theta[0, 1] * X[:,0] + self.theta[0, 2] * X[:,1]
 
         # Predicting a class based on the linear response
         Yhat = z
@@ -91,6 +91,8 @@ class logisticClassify2(classifier):
 
         return Yhat
 
+    def logistic(self, Z):
+        return 1.0 / (1.0 + np.exp(-Z))
 
     def train(self, X, Y, initStep=1.0, stopTol=1e-4, stopIter=5000, plot=None):
         """ Train the logistic regression using stochastic gradient descent """
@@ -114,21 +116,26 @@ class logisticClassify2(classifier):
         J01  = []
         while not done:
             step = (2.0 * initStep) / (2.0 + it)   # common 1/iter step size change
-
+            si = []
             for i in range(M):  # for each data point i:
-                ## TODO: compute zi = linear response of X[i,:]
-                ## TODO: compute prediction yi
-                ## TODO: compute soft response si = logistic( zi )
-                ## TODO: compute gradient of logistic loss wrt data point i:
-
+                ## Computing the linear response
+                zi = X1[i, :].dot(self.theta.T)
+                ## Computing the prediction yi
+                yi = Y01[i]
+                ## Computing soft response
+                si.append(self.logistic(zi))
+                ## Computing gradient of logistic loss
+                gradi = (si[i] - yi) * X1[i, :]
                 # Take a step down the gradient
                 self.theta = self.theta - step * gradi
 
             # each pass, compute surrogate loss & error rates:
             J01.append( self.err(X,Y) )
-            ## TODO: compute surrogate loss (logistic negative log-likelihood)
-            ##  Jsur = sum_i [ (si log si) if yi==1 else ((1-si)log(1-si)) ]
-            Jsur.append( NotImplemented ) ## TODO ...
+            ## Computing surrogate loss
+            sum_i = 0
+            for i in range(M):
+                sum_i += Y01[i] * si[i] * np.log(si[i]) + (1 - Y01[i]) * (1 - si[i]) * np.log(1 - si[i])
+            Jsur.append( sum_i / M ) ## TODO ...
 
             ## For debugging: print current parameters & losses
             # print self.theta, ' => ', Jsur[-1], ' / ', J01[-1]
@@ -137,6 +144,14 @@ class logisticClassify2(classifier):
             # check stopping criteria:
             it += 1
             done = (it > stopIter) or ( (it>1) and (abs(Jsur[-1]-Jsur[-2])<stopTol) )
+        self.numberOfIterations = it
+        if self.plotFlag == True:
+            plt.semilogx(range(it), np.abs(Jsur), label='Surrogate Loss')
+            plt.semilogx(range(it), np.abs(J01), label='Error Rate')
+            plt.legend(loc='upper right')
+            plt.xlabel('# of iterations')
+            plt.ylabel('Losses')
+            plt.show()
 
 
 ################################################################################

@@ -57,6 +57,8 @@ for degree in degrees:
     trainingError.append(np.mean((YTrainPredP - Ytr) ** 2))
     testError.append(np.mean((YTestPredP - Yte) ** 2))
 
+print trainingError
+print testError
 plt.semilogy(degrees, trainingError, c = 'red')
 plt.semilogy(degrees, testError, c = 'green')
 plt.xticks(degrees, degrees)
