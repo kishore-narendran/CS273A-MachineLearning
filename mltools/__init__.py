@@ -22,9 +22,6 @@ except ImportError: pass
 try: from . import linear
 except ImportError: pass
 
-try: from . import logistic2
-except ImportError: pass
-
 try: from . import linearC
 except ImportError: pass
 
