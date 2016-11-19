@@ -71,7 +71,7 @@ print '='*75
 # (e) Compute and plot the ROC curve for the trained model and the AUC score
 #   for the trained model
 
-dt = ml.dtree.treeClassify(Xtr, Ytr, maxDepth=7)
+dt = ml.dtree.treeClassify(Xtr, Ytr, maxDepth=7, minLeaf=4)
 
 errTrain = dt.err(Xtr, Ytr)
 errVal = dt.err(Xval, Yval)
@@ -97,9 +97,9 @@ print '='*75
 #   and predicting for all the entries in the X_test.txt data file
 print "Training with 20000 entries and making predictions"
 newXtr, newYtr = X[:20000, :], Y[:20000]
-dt = ml.dtree.treeClassify(newXtr, newYtr, maxDepth=7)
+dt = ml.dtree.treeClassify(newXtr, newYtr, maxDepth=7, minLeaf=4)
 Xte = np.genfromtxt("data/X_test.txt", delimiter = None)
 Ypred = dt.predictSoft( Xte )
-np.savetxt('Yhat_dtree_d7.txt',
+np.savetxt('Yhat_dtree_d5_l8_f6.txt',
 np.vstack( (np.arange(len(Ypred)) , Ypred[:,1]) ).T,
 '%d, %.2f',header='ID,Prob1',comments='',delimiter=',');
