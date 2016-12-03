@@ -21,6 +21,27 @@ for k in k_clusters:
     plt.title('k-Means Clustering with k = ' + str(k))
     plt.show()
 
+initializations = ['random', 'farthest', 'k++']
+parameters = []
+for initialization in initializations:
+    for k in k_clusters:
+        parameters.append((k, initialization))
+
+
+sumd_s = []
+z_s = []
+for parameter in parameters:
+    (z, c, sumd) = ml.cluster.kmeans(X_two, parameter[0], parameter[1])
+    z_s.append(z)
+    sumd_s.append(sumd)
+
+index = np.argmin(sumd_s)
+ml.plotClassify2D(None, X_two, z_s[index])
+plt.title("k = " + str(parameters[index][0]) + " initialization = " + parameters[index][1])
+plt.show()
+
+
+
 
 # (c) Running agglomerative clustering on the data with k = 5, and k = 20, with
 #   with single linkage and complete linkage
