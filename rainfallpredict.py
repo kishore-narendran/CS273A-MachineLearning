@@ -54,17 +54,22 @@ def train_fold(X, Y, nFolds, nFeatures, depth, minLeaf):
     m = []
     errTr = []
     errTe = []
+    print "NFOLD: " , X.shape, Y.shape
     for iFold in range(nFolds):
         Xtri, Xtei, Ytri, Ytei = ml.crossValidate(X, Y, nFolds, iFold)
-        # print Xtri.shape, Ytri.shape, Xtei.shape, Ytei.shape
+        print Xtri.shape, Ytri.shape, Xtei.shape, Ytei.shape
         dt = ml.dtree.treeClassify(Xtri, Ytri, minLeaf=minLeaf, maxDepth=depth, nFeatures=nFeatures)
-        m.append(dt)
+        #m.append(dt)
 
-        Ytrihat = dt.predict(Xtri)
         Yteihat = dt.predict(Xtei)
+        Ytrihat = dt.predict(Xtri)
 
         errTr.append(computeError(Ytri, Ytrihat))
         errTe.append(computeError(Ytei, Yteihat))
+
+        if (errTr[-1] > 0.32 and errTe[-1] > 0.32):
+            print "High Err: ", (nFeatures, depth, minLeaf), "has high error. Stopping nFold training on these parameters"
+            break
 
     return (np.mean(errTr), np.mean(errTe), m)
 
@@ -94,15 +99,16 @@ def train(models, lower, upper, destination_folder):
     nFolds = 5
     #leaves = [5, 7, 10, 13, 15, 18, 21, 24, 27, 30, 33, 36, 40]
     for nFeatures in range(lower, upper):
-        for depth in [15, 16, 17, 19, 21]:
-            for minLeaf in [5, 7, 10, 13, 15, 17]:
+        for depth in [10, 15, 16, 17, 19, 21, 30, 45, 50]:
+            for minLeaf in [5, 7, 10, 13, 20, 30, 64, 128, 150, 200, 250, 500, 1000, 1250]:
                 #print 'depth', depth
                 print 'Features, Depth, minLeaf, modelIndex: ', (nFeatures, depth, minLeaf, len(models))
 
                 start = time.time()
-                errTr, errTe, m = train_fold(X, Y, nFolds, nFeatures, depth, minLeaf)
+                Xi, Yi = ml.bootstrapData(X, Y, X.shape[0])
+                errTr, errTe, m = train_fold(Xi, Yi, nFolds, nFeatures, depth, minLeaf)
                 end = time.time()
-                models.extend(m)
+                #models.extend(m)
 
                 trError.append(errTr)
                 testError.append(errTe)
@@ -153,13 +159,13 @@ def train_from_triples(models, triple_file_name, destination_folder):
         #models.append(dt)
         #Ypred = dt.predict(Xi)
         #print 'Training error with triple on unscaled: ', triple.strip(), 'is', computeError(Ypred[:,np.newaxis], Yi)
-
-        dt = ml.dtree.treeClassify(Xs, Ys, maxDepth=d, nFeatures=nf, minLeaf=l)
+        Xi, Yi = ml.bootstrapData(Xs, Ys, Xs.shape[0])
+        dt = ml.dtree.treeClassify(Xi, Yi, maxDepth=d, nFeatures=nf, minLeaf=l)
         Ypred = dt.predict(Xs)
         print 'Training error with triple on scaled: ', triple.strip(), 'is', computeError(Ypred[:,np.newaxis], Ys)
         models.append(dt)
 
-    save_models(models, destination_folder)
+    #save_models(models, destination_folder)
     print '-----Predicting the scores------'
     kaggle_predict(models, True)
 
@@ -173,7 +179,7 @@ def kaggle_predict(models, rescale=False):
     for i, model in enumerate(models):
         print 'Predicting with model #' + str(i)
         predictTe[:, i] = model.predictSoft(Xtedata)[:,1]
-    Ytepred = np.mean(predictTe, axis=1) > 0.5
+    Ytepred = np.mean(predictTe, axis=1)
     exportData('kaggle_dec2.txt', Ytepred)
 
 def load_all_triple_models():
@@ -191,11 +197,20 @@ def testModels(models):
         Ydatahat = m.predict(Xdata)
         print 'error on model', i, computeError(Ydatahat[:,np.newaxis], Ydata)
 
+
+def ada_boost(models, X, Y):
+    wts = []
+    predictTe = np.zeroes((X.shape[0], len(models)))
+    for i, model in enumerate(models):
+        pass
+
+
 if __name__ == '__main__':
     #select_train()
-    #train(reload_from_disk("dtree-chosen2"), int(sys.argv[1]), int(sys.argv[2]), sys.argv[3])
+    train([], int(sys.argv[1]), int(sys.argv[2]), sys.argv[3])
+    #train([], 1, 5, 'test-mdoels2')
     #kaggle_predict(reload_from_disk("selected-models"))
     #train_from_triples(reload_from_disk("triple_selected"), 'triples', 'triples-1')
     #load_all_triple_models()
     #train_from_triples([], 'triple-new', 'scaled-triples-new')
-    kaggle_predict(reload_from_disk("scaled-triples-new"), True)
+    #kaggle_predict(reload_from_disk("scaled-triples-new"), True)
