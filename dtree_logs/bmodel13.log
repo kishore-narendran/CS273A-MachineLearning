@@ -1,0 +1,2381 @@
+Features, Depth, minLeaf, modelIndex:  (1, 10, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 5) has high error. Stopping nFold training on these parameters
+Average training erorr 0.335325
+Average test error 0.337
+Total time for model 2.30521392822 Time per split:  0.461042785645
+Features, Depth, minLeaf, modelIndex:  (1, 10, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31460875
+Average test error 0.31777
+Total time for model 10.8773658276 Time per split:  2.17547316551
+Features, Depth, minLeaf, modelIndex:  (1, 10, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 10) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3209125
+Average test error 0.325808333333
+Total time for model 6.57102108002 Time per split:  1.314204216
+Features, Depth, minLeaf, modelIndex:  (1, 10, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 13) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32149375
+Average test error 0.327825
+Total time for model 2.27291822433 Time per split:  0.454583644867
+Features, Depth, minLeaf, modelIndex:  (1, 10, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 20) has high error. Stopping nFold training on these parameters
+Average training erorr 0.322225
+Average test error 0.322
+Total time for model 2.31198692322 Time per split:  0.462397384644
+Features, Depth, minLeaf, modelIndex:  (1, 10, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 30) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33039375
+Average test error 0.334425
+Total time for model 1.74074697495 Time per split:  0.348149394989
+Features, Depth, minLeaf, modelIndex:  (1, 10, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 64) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3327875
+Average test error 0.33575
+Total time for model 2.13010311127 Time per split:  0.426020622253
+Features, Depth, minLeaf, modelIndex:  (1, 10, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32650625
+Average test error 0.33135
+Total time for model 1.77728915215 Time per split:  0.355457830429
+Features, Depth, minLeaf, modelIndex:  (1, 10, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33305625
+Average test error 0.337575
+Total time for model 1.67796993256 Time per split:  0.335593986511
+Features, Depth, minLeaf, modelIndex:  (1, 10, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.321009375
+Average test error 0.32335
+Total time for model 7.64754199982 Time per split:  1.52950839996
+Features, Depth, minLeaf, modelIndex:  (1, 10, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3197453125
+Average test error 0.32448125
+Total time for model 8.02442097664 Time per split:  1.60488419533
+Features, Depth, minLeaf, modelIndex:  (1, 10, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33198125
+Average test error 0.333325
+Total time for model 1.98873090744 Time per split:  0.397746181488
+Features, Depth, minLeaf, modelIndex:  (1, 10, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33121875
+Average test error 0.32895
+Total time for model 1.82756495476 Time per split:  0.365512990952
+Features, Depth, minLeaf, modelIndex:  (1, 10, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 10, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33854375
+Average test error 0.3357
+Total time for model 2.60759401321 Time per split:  0.521518802643
+Features, Depth, minLeaf, modelIndex:  (1, 15, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 5) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31
+Average test error 0.3172875
+Total time for model 5.89560699463 Time per split:  1.17912139893
+Features, Depth, minLeaf, modelIndex:  (1, 15, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29445875
+Average test error 0.30703
+Total time for model 18.0365970135 Time per split:  3.60731940269
+Features, Depth, minLeaf, modelIndex:  (1, 15, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3029475
+Average test error 0.312155
+Total time for model 15.2171449661 Time per split:  3.04342899323
+Features, Depth, minLeaf, modelIndex:  (1, 15, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29822
+Average test error 0.31013
+Total time for model 16.583122015 Time per split:  3.316624403
+Features, Depth, minLeaf, modelIndex:  (1, 15, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 20) has high error. Stopping nFold training on these parameters
+Average training erorr 0.30496125
+Average test error 0.314295
+Total time for model 14.5397779942 Time per split:  2.90795559883
+Features, Depth, minLeaf, modelIndex:  (1, 15, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 30) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3342375
+Average test error 0.334525
+Total time for model 2.1558508873 Time per split:  0.43117017746
+Features, Depth, minLeaf, modelIndex:  (1, 15, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30796125
+Average test error 0.314435
+Total time for model 13.7223579884 Time per split:  2.74447159767
+Features, Depth, minLeaf, modelIndex:  (1, 15, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3129796875
+Average test error 0.31848125
+Total time for model 9.53762221336 Time per split:  1.90752444267
+Features, Depth, minLeaf, modelIndex:  (1, 15, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3154890625
+Average test error 0.3200875
+Total time for model 9.82225608826 Time per split:  1.96445121765
+Features, Depth, minLeaf, modelIndex:  (1, 15, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.320771875
+Average test error 0.3220625
+Total time for model 4.83747506142 Time per split:  0.967495012283
+Features, Depth, minLeaf, modelIndex:  (1, 15, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3284875
+Average test error 0.332175
+Total time for model 2.24517703056 Time per split:  0.449035406113
+Features, Depth, minLeaf, modelIndex:  (1, 15, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32709375
+Average test error 0.3295125
+Total time for model 4.85270810127 Time per split:  0.970541620255
+Features, Depth, minLeaf, modelIndex:  (1, 15, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3465375
+Average test error 0.350675
+Total time for model 1.71726608276 Time per split:  0.343453216553
+Features, Depth, minLeaf, modelIndex:  (1, 15, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 15, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3310125
+Average test error 0.328125
+Total time for model 2.07423996925 Time per split:  0.414847993851
+Features, Depth, minLeaf, modelIndex:  (1, 16, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2922775
+Average test error 0.304875
+Total time for model 20.990650177 Time per split:  4.1981300354
+Features, Depth, minLeaf, modelIndex:  (1, 16, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 7) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32526875
+Average test error 0.332225
+Total time for model 2.36956000328 Time per split:  0.473912000656
+Features, Depth, minLeaf, modelIndex:  (1, 16, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29013
+Average test error 0.30338
+Total time for model 21.0725729465 Time per split:  4.21451458931
+Features, Depth, minLeaf, modelIndex:  (1, 16, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2912875
+Average test error 0.305275
+Total time for model 19.8718550205 Time per split:  3.9743710041
+Features, Depth, minLeaf, modelIndex:  (1, 16, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29636125
+Average test error 0.307545
+Total time for model 19.0038340092 Time per split:  3.80076680183
+Features, Depth, minLeaf, modelIndex:  (1, 16, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30499125
+Average test error 0.312795
+Total time for model 16.0698020458 Time per split:  3.21396040916
+Features, Depth, minLeaf, modelIndex:  (1, 16, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30152625
+Average test error 0.31061
+Total time for model 16.6942870617 Time per split:  3.33885741234
+Features, Depth, minLeaf, modelIndex:  (1, 16, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3129525
+Average test error 0.317045
+Total time for model 13.2221469879 Time per split:  2.64442939758
+Features, Depth, minLeaf, modelIndex:  (1, 16, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.321421875
+Average test error 0.32558125
+Total time for model 10.6443049908 Time per split:  2.12886099815
+Features, Depth, minLeaf, modelIndex:  (1, 16, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31079375
+Average test error 0.314835
+Total time for model 13.8433129787 Time per split:  2.76866259575
+Features, Depth, minLeaf, modelIndex:  (1, 16, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.319153125
+Average test error 0.3209625
+Total time for model 5.533452034 Time per split:  1.1066904068
+Features, Depth, minLeaf, modelIndex:  (1, 16, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3279375
+Average test error 0.327725
+Total time for model 2.10320806503 Time per split:  0.420641613007
+Features, Depth, minLeaf, modelIndex:  (1, 16, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33905
+Average test error 0.3419
+Total time for model 1.99308204651 Time per split:  0.398616409302
+Features, Depth, minLeaf, modelIndex:  (1, 16, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 16, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32590625
+Average test error 0.3222
+Total time for model 2.17002701759 Time per split:  0.434005403519
+Features, Depth, minLeaf, modelIndex:  (1, 17, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28703625
+Average test error 0.301765
+Total time for model 23.5371539593 Time per split:  4.70743079185
+Features, Depth, minLeaf, modelIndex:  (1, 17, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2826675
+Average test error 0.299645
+Total time for model 23.5590059757 Time per split:  4.71180119514
+Features, Depth, minLeaf, modelIndex:  (1, 17, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28266
+Average test error 0.29772
+Total time for model 22.453125 Time per split:  4.490625
+Features, Depth, minLeaf, modelIndex:  (1, 17, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28802125
+Average test error 0.301765
+Total time for model 20.4917559624 Time per split:  4.09835119247
+Features, Depth, minLeaf, modelIndex:  (1, 17, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29557
+Average test error 0.30705
+Total time for model 19.8915801048 Time per split:  3.97831602097
+Features, Depth, minLeaf, modelIndex:  (1, 17, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29933875
+Average test error 0.30906
+Total time for model 16.9031600952 Time per split:  3.38063201904
+Features, Depth, minLeaf, modelIndex:  (1, 17, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3044975
+Average test error 0.3102
+Total time for model 17.0101909637 Time per split:  3.40203819275
+Features, Depth, minLeaf, modelIndex:  (1, 17, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31339375
+Average test error 0.31777
+Total time for model 14.2137908936 Time per split:  2.84275817871
+Features, Depth, minLeaf, modelIndex:  (1, 17, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.310215
+Average test error 0.314815
+Total time for model 14.4821350574 Time per split:  2.89642701149
+Features, Depth, minLeaf, modelIndex:  (1, 17, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31505125
+Average test error 0.320155
+Total time for model 13.2995038033 Time per split:  2.65990076065
+Features, Depth, minLeaf, modelIndex:  (1, 17, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 17, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3207625
+Average test error 0.325025
+Total time for model 2.67153096199 Time per split:  0.534306192398
+Features, Depth, minLeaf, modelIndex:  (1, 17, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 17, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32356875
+Average test error 0.3271125
+Total time for model 5.33829307556 Time per split:  1.06765861511
+Features, Depth, minLeaf, modelIndex:  (1, 17, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 17, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3310625
+Average test error 0.3325
+Total time for model 2.27738499641 Time per split:  0.455476999283
+Features, Depth, minLeaf, modelIndex:  (1, 17, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 17, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.330484375
+Average test error 0.3283
+Total time for model 4.1166779995 Time per split:  0.823335599899
+Features, Depth, minLeaf, modelIndex:  (1, 19, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28856125
+Average test error 0.30351
+Total time for model 23.900138855 Time per split:  4.780027771
+Features, Depth, minLeaf, modelIndex:  (1, 19, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28590125
+Average test error 0.30159
+Total time for model 24.5545499325 Time per split:  4.9109099865
+Features, Depth, minLeaf, modelIndex:  (1, 19, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28342125
+Average test error 0.2988
+Total time for model 22.3793270588 Time per split:  4.47586541176
+Features, Depth, minLeaf, modelIndex:  (1, 19, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28548875
+Average test error 0.30138
+Total time for model 22.6931581497 Time per split:  4.53863162994
+Features, Depth, minLeaf, modelIndex:  (1, 19, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28717375
+Average test error 0.30187
+Total time for model 20.8214230537 Time per split:  4.16428461075
+Features, Depth, minLeaf, modelIndex:  (1, 19, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29437875
+Average test error 0.303725
+Total time for model 17.7104251385 Time per split:  3.54208502769
+Features, Depth, minLeaf, modelIndex:  (1, 19, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30270125
+Average test error 0.31086
+Total time for model 16.1864950657 Time per split:  3.23729901314
+Features, Depth, minLeaf, modelIndex:  (1, 19, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3176625
+Average test error 0.322825
+Total time for model 5.75586700439 Time per split:  1.15117340088
+Features, Depth, minLeaf, modelIndex:  (1, 19, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31173375
+Average test error 0.315355
+Total time for model 15.2674160004 Time per split:  3.05348320007
+Features, Depth, minLeaf, modelIndex:  (1, 19, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31556875
+Average test error 0.31939
+Total time for model 12.7864868641 Time per split:  2.55729737282
+Features, Depth, minLeaf, modelIndex:  (1, 19, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31777625
+Average test error 0.322125
+Total time for model 12.0427811146 Time per split:  2.40855622292
+Features, Depth, minLeaf, modelIndex:  (1, 19, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3233
+Average test error 0.32095
+Total time for model 2.6228120327 Time per split:  0.52456240654
+Features, Depth, minLeaf, modelIndex:  (1, 19, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.334825
+Average test error 0.3338
+Total time for model 2.08355307579 Time per split:  0.416710615158
+Features, Depth, minLeaf, modelIndex:  (1, 19, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 19, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.342225
+Average test error 0.343025
+Total time for model 1.67123699188 Time per split:  0.334247398376
+Features, Depth, minLeaf, modelIndex:  (1, 21, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2737125
+Average test error 0.292695
+Total time for model 28.5583441257 Time per split:  5.71166882515
+Features, Depth, minLeaf, modelIndex:  (1, 21, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2760475
+Average test error 0.29528
+Total time for model 26.8132338524 Time per split:  5.36264677048
+Features, Depth, minLeaf, modelIndex:  (1, 21, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27863125
+Average test error 0.29551
+Total time for model 23.4869320393 Time per split:  4.69738640785
+Features, Depth, minLeaf, modelIndex:  (1, 21, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 13) has high error. Stopping nFold training on these parameters
+Average training erorr 0.304275
+Average test error 0.310975
+Total time for model 7.898624897 Time per split:  1.5797249794
+Features, Depth, minLeaf, modelIndex:  (1, 21, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28769625
+Average test error 0.30222
+Total time for model 21.133605957 Time per split:  4.22672119141
+Features, Depth, minLeaf, modelIndex:  (1, 21, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29229
+Average test error 0.30511
+Total time for model 19.7697169781 Time per split:  3.95394339561
+Features, Depth, minLeaf, modelIndex:  (1, 21, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 64) has high error. Stopping nFold training on these parameters
+Average training erorr 0.313235416667
+Average test error 0.319225
+Total time for model 9.85603904724 Time per split:  1.97120780945
+Features, Depth, minLeaf, modelIndex:  (1, 21, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.318065625
+Average test error 0.3207625
+Total time for model 9.93540120125 Time per split:  1.98708024025
+Features, Depth, minLeaf, modelIndex:  (1, 21, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.315797916667
+Average test error 0.3219
+Total time for model 7.54384207726 Time per split:  1.50876841545
+Features, Depth, minLeaf, modelIndex:  (1, 21, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31585
+Average test error 0.319333333333
+Total time for model 7.63458204269 Time per split:  1.52691640854
+Features, Depth, minLeaf, modelIndex:  (1, 21, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32186875
+Average test error 0.32355
+Total time for model 4.76891088486 Time per split:  0.953782176971
+Features, Depth, minLeaf, modelIndex:  (1, 21, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32841875
+Average test error 0.332925
+Total time for model 2.25566601753 Time per split:  0.451133203506
+Features, Depth, minLeaf, modelIndex:  (1, 21, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.34916875
+Average test error 0.3546
+Total time for model 2.15603208542 Time per split:  0.431206417084
+Features, Depth, minLeaf, modelIndex:  (1, 21, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 21, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.326075
+Average test error 0.32765
+Total time for model 1.90704298019 Time per split:  0.381408596039
+Features, Depth, minLeaf, modelIndex:  (1, 30, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26211
+Average test error 0.28792
+Total time for model 34.9348449707 Time per split:  6.98696899414
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (1, 30, 5, 0, 0.28792000000000001, 0.26211000000000001)
+Features, Depth, minLeaf, modelIndex:  (1, 30, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26939625
+Average test error 0.29201
+Total time for model 32.0185871124 Time per split:  6.40371742249
+Features, Depth, minLeaf, modelIndex:  (1, 30, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2712925
+Average test error 0.29165
+Total time for model 26.42710495 Time per split:  5.28542098999
+Features, Depth, minLeaf, modelIndex:  (1, 30, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.28596
+Average test error 0.30435
+Total time for model 23.1303861141 Time per split:  4.62607722282
+Features, Depth, minLeaf, modelIndex:  (1, 30, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2848125
+Average test error 0.301045
+Total time for model 20.4826130867 Time per split:  4.09652261734
+Features, Depth, minLeaf, modelIndex:  (1, 30, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 30) has high error. Stopping nFold training on these parameters
+Average training erorr 0.2987775
+Average test error 0.311415
+Total time for model 17.5617449284 Time per split:  3.51234898567
+Features, Depth, minLeaf, modelIndex:  (1, 30, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3059325
+Average test error 0.31502
+Total time for model 14.3814818859 Time per split:  2.87629637718
+Features, Depth, minLeaf, modelIndex:  (1, 30, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30848375
+Average test error 0.31496
+Total time for model 13.9864478111 Time per split:  2.79728956223
+Features, Depth, minLeaf, modelIndex:  (1, 30, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.311475
+Average test error 0.3168
+Total time for model 12.7713661194 Time per split:  2.55427322388
+Features, Depth, minLeaf, modelIndex:  (1, 30, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31626875
+Average test error 0.3190625
+Total time for model 4.27414393425 Time per split:  0.85482878685
+Features, Depth, minLeaf, modelIndex:  (1, 30, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32048125
+Average test error 0.3231
+Total time for model 3.01937389374 Time per split:  0.603874778748
+Features, Depth, minLeaf, modelIndex:  (1, 30, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32215625
+Average test error 0.324175
+Total time for model 2.16942596436 Time per split:  0.433885192871
+Features, Depth, minLeaf, modelIndex:  (1, 30, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3229
+Average test error 0.323925
+Total time for model 2.09722018242 Time per split:  0.419444036484
+Features, Depth, minLeaf, modelIndex:  (1, 30, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 30, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3314125
+Average test error 0.335225
+Total time for model 2.06835508347 Time per split:  0.413671016693
+Features, Depth, minLeaf, modelIndex:  (1, 45, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 5) has high error. Stopping nFold training on these parameters
+Average training erorr 0.28825
+Average test error 0.306283333333
+Total time for model 16.0946509838 Time per split:  3.21893019676
+Features, Depth, minLeaf, modelIndex:  (1, 45, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27115625
+Average test error 0.29371
+Total time for model 30.3027331829 Time per split:  6.06054663658
+Features, Depth, minLeaf, modelIndex:  (1, 45, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2747875
+Average test error 0.294615
+Total time for model 26.0249259472 Time per split:  5.20498518944
+Features, Depth, minLeaf, modelIndex:  (1, 45, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2747875
+Average test error 0.29445
+Total time for model 26.0220508575 Time per split:  5.20441017151
+Features, Depth, minLeaf, modelIndex:  (1, 45, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2925225
+Average test error 0.305775
+Total time for model 19.2895491123 Time per split:  3.85790982246
+Features, Depth, minLeaf, modelIndex:  (1, 45, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2880975
+Average test error 0.30294
+Total time for model 18.6350030899 Time per split:  3.72700061798
+Features, Depth, minLeaf, modelIndex:  (1, 45, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 64) has high error. Stopping nFold training on these parameters
+Average training erorr 0.316345833333
+Average test error 0.326033333333
+Total time for model 8.3797981739 Time per split:  1.67595963478
+Features, Depth, minLeaf, modelIndex:  (1, 45, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3150765625
+Average test error 0.31774375
+Total time for model 10.8580510616 Time per split:  2.17161021233
+Features, Depth, minLeaf, modelIndex:  (1, 45, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3297375
+Average test error 0.334125
+Total time for model 4.68660116196 Time per split:  0.937320232391
+Features, Depth, minLeaf, modelIndex:  (1, 45, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31533
+Average test error 0.319615
+Total time for model 12.33157897 Time per split:  2.46631579399
+Features, Depth, minLeaf, modelIndex:  (1, 45, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31801375
+Average test error 0.321945
+Total time for model 11.9053359032 Time per split:  2.38106718063
+Features, Depth, minLeaf, modelIndex:  (1, 45, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32524375
+Average test error 0.323625
+Total time for model 2.7661550045 Time per split:  0.5532310009
+Features, Depth, minLeaf, modelIndex:  (1, 45, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33104375
+Average test error 0.325975
+Total time for model 2.58821988106 Time per split:  0.517643976212
+Features, Depth, minLeaf, modelIndex:  (1, 45, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 45, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32505625
+Average test error 0.324475
+Total time for model 2.57649803162 Time per split:  0.515299606323
+Features, Depth, minLeaf, modelIndex:  (1, 50, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2649375
+Average test error 0.288215
+Total time for model 33.3234858513 Time per split:  6.66469717026
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (1, 50, 5, 0, 0.288215, 0.26493749999999999)
+Features, Depth, minLeaf, modelIndex:  (1, 50, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27928625
+Average test error 0.29968
+Total time for model 26.4501719475 Time per split:  5.2900343895
+Features, Depth, minLeaf, modelIndex:  (1, 50, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27030375
+Average test error 0.292135
+Total time for model 27.1123948097 Time per split:  5.42247896194
+Features, Depth, minLeaf, modelIndex:  (1, 50, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27961625
+Average test error 0.298295
+Total time for model 24.3501448631 Time per split:  4.87002897263
+Features, Depth, minLeaf, modelIndex:  (1, 50, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29054875
+Average test error 0.302215
+Total time for model 17.3288178444 Time per split:  3.46576356888
+Features, Depth, minLeaf, modelIndex:  (1, 50, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2909125
+Average test error 0.30482
+Total time for model 18.3367381096 Time per split:  3.66734762192
+Features, Depth, minLeaf, modelIndex:  (1, 50, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30422875
+Average test error 0.31274
+Total time for model 15.5679168701 Time per split:  3.11358337402
+Features, Depth, minLeaf, modelIndex:  (1, 50, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 128) has high error. Stopping nFold training on these parameters
+Average training erorr 0.31623125
+Average test error 0.3199875
+Total time for model 4.5897808075 Time per split:  0.917956161499
+Features, Depth, minLeaf, modelIndex:  (1, 50, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 150) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3205484375
+Average test error 0.32629375
+Total time for model 10.1643190384 Time per split:  2.03286380768
+Features, Depth, minLeaf, modelIndex:  (1, 50, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 200) has high error. Stopping nFold training on these parameters
+Average training erorr 0.317609375
+Average test error 0.318675
+Total time for model 4.70116496086 Time per split:  0.940232992172
+Features, Depth, minLeaf, modelIndex:  (1, 50, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32805
+Average test error 0.32655
+Total time for model 2.35365319252 Time per split:  0.470730638504
+Features, Depth, minLeaf, modelIndex:  (1, 50, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33259375
+Average test error 0.33655
+Total time for model 2.3007941246 Time per split:  0.460158824921
+Features, Depth, minLeaf, modelIndex:  (1, 50, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32544375
+Average test error 0.328875
+Total time for model 1.97152900696 Time per split:  0.394305801392
+Features, Depth, minLeaf, modelIndex:  (1, 50, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (1, 50, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.33108125
+Average test error 0.332575
+Total time for model 1.95509195328 Time per split:  0.391018390656
+Features, Depth, minLeaf, modelIndex:  (2, 10, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30229
+Average test error 0.307895
+Total time for model 19.8421368599 Time per split:  3.96842737198
+Features, Depth, minLeaf, modelIndex:  (2, 10, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3000375
+Average test error 0.30695
+Total time for model 19.2121660709 Time per split:  3.84243321419
+Features, Depth, minLeaf, modelIndex:  (2, 10, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30086875
+Average test error 0.3089
+Total time for model 19.4481289387 Time per split:  3.88962578773
+Features, Depth, minLeaf, modelIndex:  (2, 10, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30404125
+Average test error 0.310815
+Total time for model 19.9227428436 Time per split:  3.98454856873
+Features, Depth, minLeaf, modelIndex:  (2, 10, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.302315
+Average test error 0.308545
+Total time for model 18.8517141342 Time per split:  3.77034282684
+Features, Depth, minLeaf, modelIndex:  (2, 10, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30189875
+Average test error 0.30965
+Total time for model 18.9058032036 Time per split:  3.78116064072
+Features, Depth, minLeaf, modelIndex:  (2, 10, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3058475
+Average test error 0.31173
+Total time for model 17.9695980549 Time per split:  3.59391961098
+Features, Depth, minLeaf, modelIndex:  (2, 10, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30715
+Average test error 0.312215
+Total time for model 18.2800121307 Time per split:  3.65600242615
+Features, Depth, minLeaf, modelIndex:  (2, 10, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30965625
+Average test error 0.31332
+Total time for model 17.2291369438 Time per split:  3.44582738876
+Features, Depth, minLeaf, modelIndex:  (2, 10, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31354875
+Average test error 0.316775
+Total time for model 16.9775378704 Time per split:  3.39550757408
+Features, Depth, minLeaf, modelIndex:  (2, 10, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 10, 250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3130828125
+Average test error 0.316425
+Total time for model 13.8956608772 Time per split:  2.77913217545
+Features, Depth, minLeaf, modelIndex:  (2, 10, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3162025
+Average test error 0.31882
+Total time for model 15.6410250664 Time per split:  3.12820501328
+Features, Depth, minLeaf, modelIndex:  (2, 10, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 10, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3220125
+Average test error 0.32305
+Total time for model 3.15903496742 Time per split:  0.631806993484
+Features, Depth, minLeaf, modelIndex:  (2, 10, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 10, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32818125
+Average test error 0.3303
+Total time for model 2.93285703659 Time per split:  0.586571407318
+Features, Depth, minLeaf, modelIndex:  (2, 15, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25700375
+Average test error 0.27982
+Total time for model 38.8417267799 Time per split:  7.76834535599
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 15, 5, 0, 0.27982000000000007, 0.25700374999999998)
+Features, Depth, minLeaf, modelIndex:  (2, 15, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26794625
+Average test error 0.28976
+Total time for model 34.7531268597 Time per split:  6.95062537193
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 15, 7, 0, 0.28975999999999996, 0.26794625)
+Features, Depth, minLeaf, modelIndex:  (2, 15, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26323125
+Average test error 0.28501
+Total time for model 36.1342589855 Time per split:  7.2268517971
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 15, 10, 0, 0.28500999999999993, 0.26323124999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 15, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26873625
+Average test error 0.288725
+Total time for model 33.212733984 Time per split:  6.6425467968
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 15, 13, 0, 0.28872500000000001, 0.26873625000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 15, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27106
+Average test error 0.28989
+Total time for model 32.0568101406 Time per split:  6.41136202812
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 15, 20, 0, 0.28988999999999998, 0.27106000000000002)
+Features, Depth, minLeaf, modelIndex:  (2, 15, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2740675
+Average test error 0.29321
+Total time for model 29.6682751179 Time per split:  5.93365502357
+Features, Depth, minLeaf, modelIndex:  (2, 15, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.286735
+Average test error 0.3009
+Total time for model 26.0332970619 Time per split:  5.20665941238
+Features, Depth, minLeaf, modelIndex:  (2, 15, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.297015
+Average test error 0.30582
+Total time for model 22.9530620575 Time per split:  4.5906124115
+Features, Depth, minLeaf, modelIndex:  (2, 15, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3023975
+Average test error 0.310465
+Total time for model 22.2686970234 Time per split:  4.45373940468
+Features, Depth, minLeaf, modelIndex:  (2, 15, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30448875
+Average test error 0.310295
+Total time for model 20.6981759071 Time per split:  4.13963518143
+Features, Depth, minLeaf, modelIndex:  (2, 15, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30759875
+Average test error 0.3117
+Total time for model 20.7953128815 Time per split:  4.15906257629
+Features, Depth, minLeaf, modelIndex:  (2, 15, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31318625
+Average test error 0.31559
+Total time for model 18.1037049294 Time per split:  3.62074098587
+Features, Depth, minLeaf, modelIndex:  (2, 15, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 15, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32734375
+Average test error 0.3268
+Total time for model 3.31345009804 Time per split:  0.662690019608
+Features, Depth, minLeaf, modelIndex:  (2, 15, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 15, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32923125
+Average test error 0.3292
+Total time for model 3.29171895981 Time per split:  0.658343791962
+Features, Depth, minLeaf, modelIndex:  (2, 16, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25222875
+Average test error 0.279005
+Total time for model 43.8313341141 Time per split:  8.76626682281
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 16, 5, 0, 0.27900500000000006, 0.25222875)
+Features, Depth, minLeaf, modelIndex:  (2, 16, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2532325
+Average test error 0.279025
+Total time for model 40.7469639778 Time per split:  8.14939279556
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 16, 7, 0, 0.27902499999999997, 0.25323250000000003)
+Features, Depth, minLeaf, modelIndex:  (2, 16, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.262905
+Average test error 0.28478
+Total time for model 37.65218997 Time per split:  7.530437994
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 16, 10, 0, 0.28477999999999998, 0.26290500000000006)
+Features, Depth, minLeaf, modelIndex:  (2, 16, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2609725
+Average test error 0.28561
+Total time for model 36.3016650677 Time per split:  7.26033301353
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 16, 13, 0, 0.28561000000000003, 0.2609725)
+Features, Depth, minLeaf, modelIndex:  (2, 16, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26611625
+Average test error 0.289115
+Total time for model 33.4873588085 Time per split:  6.6974717617
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 16, 20, 0, 0.28911499999999996, 0.26611625)
+Features, Depth, minLeaf, modelIndex:  (2, 16, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27366125
+Average test error 0.292135
+Total time for model 29.4225401878 Time per split:  5.88450803757
+Features, Depth, minLeaf, modelIndex:  (2, 16, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2844025
+Average test error 0.30104
+Total time for model 26.3250250816 Time per split:  5.26500501633
+Features, Depth, minLeaf, modelIndex:  (2, 16, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2946725
+Average test error 0.30494
+Total time for model 22.6543879509 Time per split:  4.53087759018
+Features, Depth, minLeaf, modelIndex:  (2, 16, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.298485
+Average test error 0.307115
+Total time for model 22.8210170269 Time per split:  4.56420340538
+Features, Depth, minLeaf, modelIndex:  (2, 16, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30162
+Average test error 0.308465
+Total time for model 21.3702120781 Time per split:  4.27404241562
+Features, Depth, minLeaf, modelIndex:  (2, 16, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30619
+Average test error 0.31165
+Total time for model 20.2642531395 Time per split:  4.0528506279
+Features, Depth, minLeaf, modelIndex:  (2, 16, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31309875
+Average test error 0.316915
+Total time for model 17.550164938 Time per split:  3.51003298759
+Features, Depth, minLeaf, modelIndex:  (2, 16, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 16, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.322328125
+Average test error 0.3204375
+Total time for model 6.35450696945 Time per split:  1.27090139389
+Features, Depth, minLeaf, modelIndex:  (2, 16, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 16, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3250125
+Average test error 0.32615
+Total time for model 2.82717299461 Time per split:  0.565434598923
+Features, Depth, minLeaf, modelIndex:  (2, 17, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25086125
+Average test error 0.279765
+Total time for model 45.5725169182 Time per split:  9.11450338364
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 17, 5, 0, 0.27976499999999999, 0.25086124999999998)
+Features, Depth, minLeaf, modelIndex:  (2, 17, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24760625
+Average test error 0.276305
+Total time for model 44.3525519371 Time per split:  8.87051038742
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 17, 7, 0, 0.27630499999999997, 0.24760624999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 17, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2523825
+Average test error 0.279995
+Total time for model 40.9879629612 Time per split:  8.19759259224
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 17, 10, 0, 0.27999499999999999, 0.25238250000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 17, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2565625
+Average test error 0.283335
+Total time for model 38.8173239231 Time per split:  7.76346478462
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 17, 13, 0, 0.283335, 0.25656249999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 17, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26126625
+Average test error 0.285945
+Total time for model 35.3305339813 Time per split:  7.06610679626
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 17, 20, 0, 0.285945, 0.26126624999999998)
+Features, Depth, minLeaf, modelIndex:  (2, 17, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27042375
+Average test error 0.291045
+Total time for model 32.808506012 Time per split:  6.56170120239
+Features, Depth, minLeaf, modelIndex:  (2, 17, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.282455
+Average test error 0.29843
+Total time for model 28.3439722061 Time per split:  5.66879444122
+Features, Depth, minLeaf, modelIndex:  (2, 17, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29625
+Average test error 0.30567
+Total time for model 23.5147960186 Time per split:  4.70295920372
+Features, Depth, minLeaf, modelIndex:  (2, 17, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29901125
+Average test error 0.307275
+Total time for model 23.2404010296 Time per split:  4.64808020592
+Features, Depth, minLeaf, modelIndex:  (2, 17, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30306
+Average test error 0.3111
+Total time for model 21.8223819733 Time per split:  4.36447639465
+Features, Depth, minLeaf, modelIndex:  (2, 17, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30501625
+Average test error 0.310235
+Total time for model 20.9924240112 Time per split:  4.19848480225
+Features, Depth, minLeaf, modelIndex:  (2, 17, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31185125
+Average test error 0.3139
+Total time for model 17.6264910698 Time per split:  3.52529821396
+Features, Depth, minLeaf, modelIndex:  (2, 17, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 17, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32084375
+Average test error 0.322175
+Total time for model 3.07293009758 Time per split:  0.614586019516
+Features, Depth, minLeaf, modelIndex:  (2, 17, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 17, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32230625
+Average test error 0.3213
+Total time for model 3.22003412247 Time per split:  0.644006824493
+Features, Depth, minLeaf, modelIndex:  (2, 19, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.232335
+Average test error 0.269065
+Total time for model 57.2237789631 Time per split:  11.4447557926
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 5, 0, 0.269065, 0.23233500000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.233525
+Average test error 0.268675
+Total time for model 52.7275009155 Time per split:  10.5455001831
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 7, 0, 0.268675, 0.23352500000000004)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24375
+Average test error 0.277055
+Total time for model 46.3835189342 Time per split:  9.27670378685
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 10, 0, 0.277055, 0.24374999999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2421425
+Average test error 0.276985
+Total time for model 45.5434470177 Time per split:  9.10868940353
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 13, 0, 0.27698499999999993, 0.24214249999999998)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2553225
+Average test error 0.28291
+Total time for model 38.8606510162 Time per split:  7.77213020325
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 20, 0, 0.28290999999999999, 0.25532250000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.26374625
+Average test error 0.289
+Total time for model 35.4886331558 Time per split:  7.09772663116
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 19, 30, 0, 0.28900000000000003, 0.26374624999999996)
+Features, Depth, minLeaf, modelIndex:  (2, 19, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.281365
+Average test error 0.298895
+Total time for model 29.6745800972 Time per split:  5.93491601944
+Features, Depth, minLeaf, modelIndex:  (2, 19, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.296055
+Average test error 0.30592
+Total time for model 24.4306650162 Time per split:  4.88613300323
+Features, Depth, minLeaf, modelIndex:  (2, 19, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29816875
+Average test error 0.307445
+Total time for model 22.9842829704 Time per split:  4.59685659409
+Features, Depth, minLeaf, modelIndex:  (2, 19, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30317
+Average test error 0.308825
+Total time for model 21.9530889988 Time per split:  4.39061779976
+Features, Depth, minLeaf, modelIndex:  (2, 19, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3071925
+Average test error 0.31419
+Total time for model 20.6550829411 Time per split:  4.13101658821
+Features, Depth, minLeaf, modelIndex:  (2, 19, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 19, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32149375
+Average test error 0.325225
+Total time for model 3.47469305992 Time per split:  0.694938611984
+Features, Depth, minLeaf, modelIndex:  (2, 19, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3168275
+Average test error 0.31865
+Total time for model 15.6718950272 Time per split:  3.13437900543
+Features, Depth, minLeaf, modelIndex:  (2, 19, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 19, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32678125
+Average test error 0.325425
+Total time for model 3.09413099289 Time per split:  0.618826198578
+Features, Depth, minLeaf, modelIndex:  (2, 21, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2197175
+Average test error 0.26426
+Total time for model 66.0113179684 Time per split:  13.2022635937
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 5, 0, 0.26425999999999999, 0.21971750000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2207675
+Average test error 0.261505
+Total time for model 60.417042017 Time per split:  12.0834084034
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 7, 0, 0.26150499999999999, 0.22076750000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.23006625
+Average test error 0.26755
+Total time for model 52.7726509571 Time per split:  10.5545301914
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 10, 0, 0.26755000000000007, 0.23006624999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.23885625
+Average test error 0.274195
+Total time for model 47.1002531052 Time per split:  9.42005062103
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 13, 0, 0.27419500000000002, 0.23885624999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24726625
+Average test error 0.28063
+Total time for model 42.4896700382 Time per split:  8.49793400764
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 20, 0, 0.28062999999999999, 0.24726625000000002)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.258845
+Average test error 0.28378
+Total time for model 35.7554008961 Time per split:  7.15108017921
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 21, 30, 0, 0.28378000000000003, 0.25884499999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 21, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2792675
+Average test error 0.29826
+Total time for model 28.83928895 Time per split:  5.76785778999
+Features, Depth, minLeaf, modelIndex:  (2, 21, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29464875
+Average test error 0.30482
+Total time for model 23.3565840721 Time per split:  4.67131681442
+Features, Depth, minLeaf, modelIndex:  (2, 21, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2979475
+Average test error 0.306225
+Total time for model 22.8902239799 Time per split:  4.57804479599
+Features, Depth, minLeaf, modelIndex:  (2, 21, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30226875
+Average test error 0.308835
+Total time for model 21.5748610497 Time per split:  4.31497220993
+Features, Depth, minLeaf, modelIndex:  (2, 21, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.306925
+Average test error 0.31319
+Total time for model 21.601981163 Time per split:  4.3203962326
+Features, Depth, minLeaf, modelIndex:  (2, 21, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31603125
+Average test error 0.31807
+Total time for model 18.5845139027 Time per split:  3.71690278053
+Features, Depth, minLeaf, modelIndex:  (2, 21, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3187125
+Average test error 0.32018
+Total time for model 16.2843141556 Time per split:  3.25686283112
+Features, Depth, minLeaf, modelIndex:  (2, 21, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 21, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.322403125
+Average test error 0.3239875
+Total time for model 5.85233592987 Time per split:  1.17046718597
+Features, Depth, minLeaf, modelIndex:  (2, 30, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.1909775
+Average test error 0.249865
+Total time for model 90.9020209312 Time per split:  18.1804041862
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 5, 0, 0.249865, 0.19097749999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.20256125
+Average test error 0.258115
+Total time for model 77.8792231083 Time per split:  15.5758446217
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 7, 0, 0.25811499999999998, 0.20256124999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.21697
+Average test error 0.2647
+Total time for model 62.734885931 Time per split:  12.5469771862
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 10, 0, 0.26470000000000005, 0.21696999999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.225075
+Average test error 0.269075
+Total time for model 58.4382040501 Time per split:  11.68764081
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 13, 0, 0.26907500000000001, 0.225075)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24376625
+Average test error 0.278865
+Total time for model 41.7887609005 Time per split:  8.3577521801
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 20, 0, 0.27886500000000003, 0.24376625000000002)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25536875
+Average test error 0.28526
+Total time for model 37.6608870029 Time per split:  7.53217740059
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 30, 30, 0, 0.28525999999999996, 0.25536874999999998)
+Features, Depth, minLeaf, modelIndex:  (2, 30, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27804625
+Average test error 0.295715
+Total time for model 29.4495689869 Time per split:  5.88991379738
+Features, Depth, minLeaf, modelIndex:  (2, 30, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2936425
+Average test error 0.304685
+Total time for model 23.3781518936 Time per split:  4.67563037872
+Features, Depth, minLeaf, modelIndex:  (2, 30, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29667375
+Average test error 0.305075
+Total time for model 23.0953879356 Time per split:  4.61907758713
+Features, Depth, minLeaf, modelIndex:  (2, 30, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30193
+Average test error 0.30751
+Total time for model 20.5326039791 Time per split:  4.10652079582
+Features, Depth, minLeaf, modelIndex:  (2, 30, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.3080475
+Average test error 0.314265
+Total time for model 20.3388180733 Time per split:  4.06776361465
+Features, Depth, minLeaf, modelIndex:  (2, 30, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31306625
+Average test error 0.3154
+Total time for model 17.4556610584 Time per split:  3.49113221169
+Features, Depth, minLeaf, modelIndex:  (2, 30, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 30, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32100625
+Average test error 0.322225
+Total time for model 3.33693385124 Time per split:  0.667386770248
+Features, Depth, minLeaf, modelIndex:  (2, 30, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 30, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3222375
+Average test error 0.322725
+Total time for model 2.80321097374 Time per split:  0.560642194748
+Features, Depth, minLeaf, modelIndex:  (2, 45, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.1867775
+Average test error 0.24866
+Total time for model 93.5373260975 Time per split:  18.7074652195
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 5, 0, 0.24866000000000002, 0.18677749999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.19735
+Average test error 0.25436
+Total time for model 78.4863438606 Time per split:  15.6972687721
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 7, 0, 0.25435999999999998, 0.19735)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.21501
+Average test error 0.26381
+Total time for model 62.8886501789 Time per split:  12.5777300358
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 10, 0, 0.26380999999999999, 0.21501000000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2267
+Average test error 0.269535
+Total time for model 53.7157530785 Time per split:  10.7431506157
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 13, 0, 0.26953499999999997, 0.22670000000000004)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24077875
+Average test error 0.278085
+Total time for model 46.762830019 Time per split:  9.3525660038
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 20, 0, 0.27808500000000003, 0.24077874999999996)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25654
+Average test error 0.285185
+Total time for model 37.4665551186 Time per split:  7.49331102371
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 45, 30, 0, 0.28518500000000002, 0.25653999999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 45, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.2769325
+Average test error 0.29461
+Total time for model 29.1354811192 Time per split:  5.82709622383
+Features, Depth, minLeaf, modelIndex:  (2, 45, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29526
+Average test error 0.30597
+Total time for model 24.5796620846 Time per split:  4.91593241692
+Features, Depth, minLeaf, modelIndex:  (2, 45, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29669625
+Average test error 0.30697
+Total time for model 23.9367060661 Time per split:  4.78734121323
+Features, Depth, minLeaf, modelIndex:  (2, 45, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30423875
+Average test error 0.311015
+Total time for model 22.5313389301 Time per split:  4.50626778603
+Features, Depth, minLeaf, modelIndex:  (2, 45, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30668
+Average test error 0.31251
+Total time for model 20.9649190903 Time per split:  4.19298381805
+Features, Depth, minLeaf, modelIndex:  (2, 45, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 45, 500) has high error. Stopping nFold training on these parameters
+Average training erorr 0.319040625
+Average test error 0.3251125
+Total time for model 7.71774506569 Time per split:  1.54354901314
+Features, Depth, minLeaf, modelIndex:  (2, 45, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 45, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32203125
+Average test error 0.324741666667
+Total time for model 9.75420594215 Time per split:  1.95084118843
+Features, Depth, minLeaf, modelIndex:  (2, 45, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 45, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32195
+Average test error 0.3210125
+Total time for model 5.84217596054 Time per split:  1.16843519211
+Features, Depth, minLeaf, modelIndex:  (2, 50, 5, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.18633875
+Average test error 0.2492
+Total time for model 96.0476591587 Time per split:  19.2095318317
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 5, 0, 0.2492, 0.18633875)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 7, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.20379875
+Average test error 0.258805
+Total time for model 80.2020461559 Time per split:  16.0404092312
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 7, 0, 0.25880500000000001, 0.20379874999999997)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 10, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.21346125
+Average test error 0.264555
+Total time for model 67.6188840866 Time per split:  13.5237768173
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 10, 0, 0.26455499999999998, 0.21346124999999999)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 13, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.22459375
+Average test error 0.267075
+Total time for model 56.2734508514 Time per split:  11.2546901703
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 13, 0, 0.26707500000000001, 0.22459375000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 20, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.24018125
+Average test error 0.277825
+Total time for model 45.3579530716 Time per split:  9.07159061432
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 20, 0, 0.27782499999999999, 0.24018125000000001)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 30, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.25486625
+Average test error 0.284965
+Total time for model 39.5446989536 Time per split:  7.90893979073
+:::LOW ERR::: (f,d,ml,len_model,teE, trE (2, 50, 30, 0, 0.28496500000000002, 0.25486624999999996)
+Features, Depth, minLeaf, modelIndex:  (2, 50, 64, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.27851
+Average test error 0.297965
+Total time for model 28.9748499393 Time per split:  5.79496998787
+Features, Depth, minLeaf, modelIndex:  (2, 50, 128, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29510875
+Average test error 0.305225
+Total time for model 24.2873430252 Time per split:  4.85746860504
+Features, Depth, minLeaf, modelIndex:  (2, 50, 150, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.29764375
+Average test error 0.30792
+Total time for model 22.7067010403 Time per split:  4.54134020805
+Features, Depth, minLeaf, modelIndex:  (2, 50, 200, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30530875
+Average test error 0.31249
+Total time for model 20.2149438858 Time per split:  4.04298877716
+Features, Depth, minLeaf, modelIndex:  (2, 50, 250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.30307125
+Average test error 0.30905
+Total time for model 19.9524378777 Time per split:  3.99048757553
+Features, Depth, minLeaf, modelIndex:  (2, 50, 500, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+Average training erorr 0.31697625
+Average test error 0.32059
+Total time for model 17.0443308353 Time per split:  3.40886616707
+Features, Depth, minLeaf, modelIndex:  (2, 50, 1000, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 50, 1000) has high error. Stopping nFold training on these parameters
+Average training erorr 0.32044375
+Average test error 0.322775
+Total time for model 3.15043711662 Time per split:  0.630087423325
+Features, Depth, minLeaf, modelIndex:  (2, 50, 1250, 0)
+NFOLD:  (200000, 14) (200000,)
+(160000, 14) (160000,) (40000, 14) (40000,)
+High Err:  (2, 50, 1250) has high error. Stopping nFold training on these parameters
+Average training erorr 0.3222
+Average test error 0.32205
+Total time for model 3.05678796768 Time per split:  0.611357593536
